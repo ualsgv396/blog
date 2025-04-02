@@ -3,6 +3,7 @@ layout: post
 title:  "Mejores prácticas para el control de versiones con Git"
 date:   2025-03-26 13:35:09 +0100
 categories: jekyll update
+author: Adrián Martínez Granados
 ---
 
 Git es una herramienta poderosa para el control de versiones, pero su uso efectivo requiere seguir buenas prácticas. A continuación, se presentan algunas recomendaciones para mejorar la gestión de proyectos con Git.

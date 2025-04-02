@@ -3,6 +3,7 @@ layout: post
 title:  " 📌 Introducción a Jekyll!"
 date:   2025-03-26 13:43:17 +0100
 categories: jekyll update
+author: Sergio Gómez
 ---
 
 # Introducción a Jekyll
@@ -20,7 +21,7 @@ Esto hace que destaque entre los SSG debido a su:
 - **Despliegue sencillo**  
 
 
-## **I. ¿Cómo instalar Jekyll para crear sistios?**
+## **❓. ¿Cómo instalar Jekyll para crear sistios?**
 ### **1. Instalación de Jekyll**  
 Primero, necesitas instalar Ruby y Bundler.  
 
@@ -29,7 +30,7 @@ Primero, necesitas instalar Ruby y Bundler.
 gem install jekyll
 ```
 
-## **II. Verificar que Jekyll se ha instalado en el sistema correctamente**
+## **✅. Verificar que Jekyll se ha instalado en el sistema correctamente**
   
 Para verificar que Jekyll está instalado correctamente en tu máquina, abre tu terminal y ejecuta el siguiente comando:
  
@@ -39,7 +40,7 @@ jekyll -v
 
 
 
-## **III. Crear un nuevo sitio Jekyll**  
+## **📋. Crear un nuevo sitio Jekyll**  
 Para comenzar un nuevo proyecto en Jekyll, abre una terminal y ejecuta el siguiente comando:  
 
 ```sh
@@ -48,14 +49,14 @@ cd "nombre-de-mi-blog"
 ```
 
 
-## **IV. Realizar el serve localmente**  
+## **🖥️⚙️. Realizar el serve localmente**  
 Para comenzar un nuevo proyecto en Jekyll, abre una terminal y ejecuta el siguiente comando:  
 
 ```sh
 bundle exec jekyll serve
 ```
 
-## **V. Personalización del blog**  
+## **🔧. Personalización del blog**  
 Para comenzar un nuevo proyecto en Jekyll, abre una terminal y ejecuta el siguiente comando:
 📝 Jekyll permite personalizar el sitio editando diferentes archivos y configuraciones:
 
@@ -68,7 +69,7 @@ Para comenzar un nuevo proyecto en Jekyll, abre una terminal y ejecuta el siguie
 - **⚙️ Modificar la configuración:**  
   Edita `_config.yml` para cambiar el título, la descripción y otros ajustes del sitio.
 
-  ![Introducción a Jekyll](/assets/configyml.png)
+  ![Introducción a Jekyll](/assets/configyml.png){:width="600px"}
 
 
 - **🎨 Personalizar el diseño:**  
@@ -78,6 +79,6 @@ Para comenzar un nuevo proyecto en Jekyll, abre una terminal y ejecuta el siguie
   ## **¡LISTO! Ya tienes tu blog disponible**
   Una vez realizados estos pasos ya puedes personalizar tu blog añadiendo entradas a la página y personalizar a tu gusto.  
 
-    ![Introducción a Jekyll](/assets/jekyll2.png)
+    ![Introducción a Jekyll](/assets/jekyll2.png){:width="600px"}
 
 

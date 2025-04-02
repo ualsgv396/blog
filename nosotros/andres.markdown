@@ -4,7 +4,7 @@ title: Andrés
 permalink: /nosotros/andres.markdown/
 ---
 
-![Andres](/assets/fotoAndres.jpg)
+![Andres](/assets/fotoAndres.jpg){: style="width:200px; border-radius:50%;"}
 
 ## 🚀 ¡Hola, soy Andrés Ruiz!
 

@@ -2,7 +2,7 @@
 layout: post
 title:  " 📌 Uso de Markdown para escribir contenido en Jekyll!"
 date:   2025-03-26 14:27:51 +0100
-categories: jekyll 
+categories: jekyll update
 author: Sergio Gómez
 ---
 

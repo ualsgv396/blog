@@ -3,9 +3,10 @@ layout: post
 title:  "Como desplegar un blog en Github Pages"
 date:   2025-03-26 14:15:09 +0100
 categories: jekyll update
+author: Andrés Ruiz
 ---
 
-# 🌟 Bienvenidos a mi entrada ✨  
+# 🌟 Como desplegar un blog ✨  
 
 ¡Hola a todos! 👋 Este es una entrada en la cual se recogerá todo lo necesario para aprender a desplegar un blog en GIthub pages.
 
@@ -25,7 +26,7 @@ Sigue estos pasos para publicar tu blog en **GitHub Pages**:
    - Ve a la página principal de tu repositorio en GitHub  
    - Haz clic en **"Settings"** (Configuración)  
 
-   ![Configuración del repositorio](/assets/img1.jpg)  
+   ![Configuración del repositorio](/assets/img1.jpg){:width="600px"}   
 
 #### 2. **Ir a la sección "Pages"**  
    - En el menú lateral izquierdo, busca y selecciona **"Pages"**  

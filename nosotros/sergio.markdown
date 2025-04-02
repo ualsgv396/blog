@@ -5,7 +5,7 @@ permalink: /nosotros/sergio.markdown/
 ---
 
 
-![Adrián](/assets/fotoSergio.jpg)
+![Adrián](/assets/fotoSergio.jpg) {: style="width:200px; border-radius:50%;"}
 
 ## 👋 ¡Hola, soy Sergio!
 
